@@ -81,25 +81,6 @@ Educate Pro is designed to be highly customizable. You can easily adjust:
 ## License
 
 This project is licensed under the terms of the MIT License. See the [LICENSE](LICENSE) file for details.
-## Customization
 
-Educate Pro is designed to be highly customizable. You can easily adjust:
-
-- **Color schemes** and **typography** to fit your brand.
-- **Iconography** and **UI layout** for a unique user interface.
-
-## Screenshots
-
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
-*(Add more screenshots as needed)*
-
-## Credits
-
-- **Icons & Images:** Sourced from [Freepik](https://www.freepik.com/), [Unsplash](https://unsplash.com/), and [Flaticon](https://www.flaticon.com/).
-
-## License
-
-This project is licensed under the terms of the MIT License. See the [LICENSE](LICENSE) file for details.
 
    
