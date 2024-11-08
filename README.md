@@ -51,7 +51,7 @@ Educate Expo includes a wide array of screens, helping you build a full-featured
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/bouzayenilyes/educate-expo.git
-   cd educate-pro
+   cd educate-expo
 
 2. **Install Dependencies :**
    ```bash
