@@ -57,7 +57,7 @@ Educate Expo includes a wide array of screens, helping you build a full-featured
    ```bash
    npm install
 
-3. **Run the project using Expo: **
+3. **Run the project using Expo:**
       ```bash
    npx expo start
 
