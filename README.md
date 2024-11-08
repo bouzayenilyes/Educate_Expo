@@ -78,7 +78,6 @@ Educate Pro is designed to be highly customizable. You can easily adjust:
 ![Screenshot 6](shots/6.png)
 ![Screenshot 7](shots/7.png)
 ![Screenshot 8](shots/8.png)
-*(Add more screenshots/ as needed)*
 
 ## Credits
 
