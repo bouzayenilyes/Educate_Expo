@@ -68,17 +68,17 @@ Educate Pro is designed to be highly customizable. You can easily adjust:
 - **Color schemes** and **typography** to fit your brand.
 - **Iconography** and **UI layout** for a unique user interface.
 
-## Screenshots
+## Screenshots/
 
-![Screenshot 1](screenshots/1.png)
-![Screenshot 2](path/to/screenshot/2.png)
-![Screenshot 3](screenshots/3.png)
-![Screenshot 4](path/to/screenshot/4.png)
-![Screenshot 5](screenshots/5.png)
-![Screenshot 6](path/to/screenshot/6.png)
-![Screenshot 7](screenshots/7.png)
-![Screenshot 8](path/to/screenshot/8.png)
-*(Add more screenshots as needed)*
+![Screenshot 1](shots/1.png)
+![Screenshot 2](shots/2.png)
+![Screenshot 3](shots/3.png)
+![Screenshot 4](shots/4.png)
+![Screenshot 5](shots/5.png)
+![Screenshot 6](shots/6.png)
+![Screenshot 7](shots/7.png)
+![Screenshot 8](shots/8.png)
+*(Add more screenshots/ as needed)*
 
 ## Credits
 
